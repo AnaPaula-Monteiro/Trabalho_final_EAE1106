@@ -1,0 +1,888 @@
+====================================================
+  PAÍSES ELIMINADOS — DATASET_MODELO_2.CSV
+  Critério: dados completos de 2015 a 2021
+====================================================
+
+País: Afghanistan
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2019]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2019]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: Algeria
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: American Samoa
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Andorra
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Angola
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Antigua and Barbuda
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Argentina
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Aruba
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2020]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Australia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: Azerbaijan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2017]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017]
+-----------------------------------------------------------------------------------------------
+País: Bahamas, The
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Bahrain
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Bangladesh
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Barbados
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020]
+-----------------------------------------------------------------------------------------------
+País: Belarus
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015]
+-----------------------------------------------------------------------------------------------
+País: Belize
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Benin
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Bermuda
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Bhutan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017]
+-----------------------------------------------------------------------------------------------
+País: Botswana
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: British Virgin Islands
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Brunei Darussalam
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Burkina Faso
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Burundi
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Cabo Verde
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Cambodia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017, 2018, 2021]
+-----------------------------------------------------------------------------------------------
+País: Cameroon
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Cayman Islands
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Central African Republic
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Chad
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Channel Islands
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: China
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Colombia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020]
+-----------------------------------------------------------------------------------------------
+País: Comoros
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016, 2017, 2018, 2019]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Congo, Dem. Rep.
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2018, 2019]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Congo, Rep.
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Cote d'Ivoire
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Croatia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Cuba
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Curacao
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Cyprus
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2018]
+-----------------------------------------------------------------------------------------------
+País: Denmark
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015]
+-----------------------------------------------------------------------------------------------
+País: Djibouti
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Dominica
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Ecuador
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020]
+-----------------------------------------------------------------------------------------------
+País: Egypt, Arab Rep.
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2019]
+-----------------------------------------------------------------------------------------------
+País: Equatorial Guinea
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Eritrea
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Eswatini
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Ethiopia
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Faroe Islands
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Fiji
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: France
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: French Polynesia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Gabon
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Gambia, The
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Ghana
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Gibraltar
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Greece
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Greenland
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Grenada
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016, 2019, 2020]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017]
+-----------------------------------------------------------------------------------------------
+País: Guam
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Guatemala
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020]
+-----------------------------------------------------------------------------------------------
+País: Guinea
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Guinea-Bissau
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Guyana
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Haiti
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Honduras
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020]
+-----------------------------------------------------------------------------------------------
+País: India
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017]
+-----------------------------------------------------------------------------------------------
+País: Iran, Islamic Rep.
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Iraq
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Isle of Man
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Jamaica
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015]
+-----------------------------------------------------------------------------------------------
+País: Japan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Jordan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Kazakhstan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kenya
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2020]
+-----------------------------------------------------------------------------------------------
+País: Kiribati
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017, 2018, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017, 2018, 2021]
+-----------------------------------------------------------------------------------------------
+País: Korea, Dem. People's Rep.
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kosovo
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kuwait
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kyrgyz Republic
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Lao PDR
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Lebanon
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Lesotho
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Liberia
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Libya
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Liechtenstein
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Luxembourg
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016]
+-----------------------------------------------------------------------------------------------
+País: Macao SAR, China
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Madagascar
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Malawi
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Malaysia
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2017, 2019]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2017, 2019]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017, 2019]
+-----------------------------------------------------------------------------------------------
+País: Maldives
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Mali
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Malta
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2018, 2020]
+-----------------------------------------------------------------------------------------------
+País: Marshall Islands
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020]
+-----------------------------------------------------------------------------------------------
+País: Mauritania
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2017, 2018]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Mexico
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019]
+-----------------------------------------------------------------------------------------------
+País: Micronesia, Fed. Sts.
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Monaco
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2018, 2020]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Mongolia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Montenegro
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Morocco
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Mozambique
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Myanmar
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2021]
+-----------------------------------------------------------------------------------------------
+País: Namibia
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Nauru
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Nepal
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: New Caledonia
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: New Zealand
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Nicaragua
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Niger
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Nigeria
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: North Macedonia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Northern Mariana Islands
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Oman
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Pakistan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2017]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2017]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017]
+-----------------------------------------------------------------------------------------------
+País: Palau
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Papua New Guinea
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Paraguay
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Philippines
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Portugal
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016]
+-----------------------------------------------------------------------------------------------
+País: Puerto Rico (US)
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2017, 2018, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2017, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Qatar
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2018, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2018, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2018, 2021]
+-----------------------------------------------------------------------------------------------
+País: Rwanda
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Samoa
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: San Marino
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Sao Tome and Principe
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Saudi Arabia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Senegal
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Serbia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2020]
+-----------------------------------------------------------------------------------------------
+País: Seychelles
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Sierra Leone
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Singapore
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2018, 2019]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016, 2018, 2019]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: Sint Maarten (Dutch part)
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Solomon Islands
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Somalia, Fed. Rep.
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: South Sudan
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Sri Lanka
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019]
+-----------------------------------------------------------------------------------------------
+País: St. Kitts and Nevis
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: St. Lucia
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2021]
+-----------------------------------------------------------------------------------------------
+País: St. Martin (French part)
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: St. Vincent and the Grenadines
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2019, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Sudan
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Suriname
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Syrian Arab Republic
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Tajikistan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Tanzania
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Timor-Leste
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2017, 2018, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2017, 2018, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017, 2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Togo
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016, 2018, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016, 2018, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Tonga
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2017, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2017, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Trinidad and Tobago
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2017, 2018]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2017, 2018]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Tunisia
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2016, 2017, 2018]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2018, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2018, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2018, 2020]
+-----------------------------------------------------------------------------------------------
+País: Turkmenistan
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Turks and Caicos Islands
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Tuvalu
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Uganda
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2018, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2018, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2018, 2020]
+-----------------------------------------------------------------------------------------------
+País: United Arab Emirates
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2019, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2019, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Uruguay
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Uzbekistan
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Vanuatu
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2021]
+-----------------------------------------------------------------------------------------------
+País: Venezuela, RB
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Virgin Islands (U.S.)
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: West Bank and Gaza
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2018, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Yemen, Rep.
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2019, 2020, 2021]
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Zambia
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2016]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2016]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2016]
+-----------------------------------------------------------------------------------------------
+País: Zimbabwe
+  → Government expenditure on education, total (% of GDP)             | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment with advanced education (% of total labor force with | Anos ausentes: [2015, 2016, 2017, 2018, 2020]
+  → Unemployment with basic education (% of total labor force with ba | Anos ausentes: [2015, 2016, 2017, 2018, 2020]
+  → Unemployment with intermediate education (% of total labor force  | Anos ausentes: [2015, 2016, 2017, 2018, 2020]
+-----------------------------------------------------------------------------------------------

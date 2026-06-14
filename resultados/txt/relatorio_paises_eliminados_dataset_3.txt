@@ -1,0 +1,349 @@
+====================================================
+  PAÍSES ELIMINADOS — DATASET_MODELO_3.CSV
+  Critério: dados completos de 2015 a 2021
+====================================================
+
+País: Afghanistan
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: American Samoa
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Andorra
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Antigua and Barbuda
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Aruba
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2020]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Australia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: Bangladesh
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2017]
+-----------------------------------------------------------------------------------------------
+País: Bermuda
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Bosnia and Herzegovina
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2017, 2020]
+-----------------------------------------------------------------------------------------------
+País: Botswana
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: British Virgin Islands
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Brunei Darussalam
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Burkina Faso
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016]
+-----------------------------------------------------------------------------------------------
+País: Cambodia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017]
+-----------------------------------------------------------------------------------------------
+País: Cayman Islands
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Chad
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2018]
+-----------------------------------------------------------------------------------------------
+País: Channel Islands
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: China
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Colombia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Comoros
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2017, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: Congo, Dem. Rep.
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Croatia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Curacao
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Cyprus
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2018]
+-----------------------------------------------------------------------------------------------
+País: Denmark
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015]
+-----------------------------------------------------------------------------------------------
+País: Djibouti
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Dominica
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Ecuador
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Egypt, Arab Rep.
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Equatorial Guinea
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Eritrea
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Faroe Islands
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: France
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: French Polynesia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Gibraltar
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Greece
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Greenland
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Grenada
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2019, 2020]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Guam
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Guinea-Bissau
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Guyana
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Honduras
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2017, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Iran, Islamic Rep.
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
+País: Iraq
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Isle of Man
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Jamaica
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2020]
+-----------------------------------------------------------------------------------------------
+País: Japan
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kiribati
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Korea, Dem. People's Rep.
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Korea, Rep.
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kosovo
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Kuwait
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015]
+-----------------------------------------------------------------------------------------------
+País: Lebanon
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2021]
+-----------------------------------------------------------------------------------------------
+País: Lesotho
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Liberia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2019, 2020]
+-----------------------------------------------------------------------------------------------
+País: Libya
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Liechtenstein
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Luxembourg
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016]
+-----------------------------------------------------------------------------------------------
+País: Madagascar
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2017, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Malawi
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019]
+-----------------------------------------------------------------------------------------------
+País: Malta
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2018, 2020]
+-----------------------------------------------------------------------------------------------
+País: Marshall Islands
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Mauritania
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Mexico
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019]
+-----------------------------------------------------------------------------------------------
+País: Micronesia, Fed. Sts.
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Monaco
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2018, 2020]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Montenegro
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Myanmar
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Nauru
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: New Caledonia
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: North Macedonia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Northern Mariana Islands
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Oman
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2021]
+-----------------------------------------------------------------------------------------------
+País: Palau
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Paraguay
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2017, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: Portugal
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016]
+-----------------------------------------------------------------------------------------------
+País: Qatar
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2018, 2021]
+-----------------------------------------------------------------------------------------------
+País: Russian Federation
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: San Marino
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Saudi Arabia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Serbia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2020]
+-----------------------------------------------------------------------------------------------
+País: Seychelles
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Sierra Leone
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015]
+-----------------------------------------------------------------------------------------------
+País: Sint Maarten (Dutch part)
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Solomon Islands
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+-----------------------------------------------------------------------------------------------
+País: South Sudan
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Sri Lanka
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019]
+-----------------------------------------------------------------------------------------------
+País: St. Kitts and Nevis
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: St. Martin (French part)
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: St. Vincent and the Grenadines
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2019, 2021]
+-----------------------------------------------------------------------------------------------
+País: Sudan
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Syrian Arab Republic
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Tonga
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016]
+-----------------------------------------------------------------------------------------------
+País: Tunisia
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2016, 2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Turkmenistan
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Turks and Caicos Islands
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Tuvalu
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019]
+  → Unemployment, total (% of total labor force) (modeled ILO estimat | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: United Arab Emirates
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018]
+-----------------------------------------------------------------------------------------------
+País: Venezuela, RB
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Virgin Islands (U.S.)
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: West Bank and Gaza
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Yemen, Rep.
+  → GDP (constant 2015 US$)                                           | Anos ausentes: [2019, 2020, 2021]
+  → GDP per capita (constant 2015 US$)                                | Anos ausentes: [2019, 2020, 2021]
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2015, 2016, 2017, 2018, 2019, 2020, 2021]
+-----------------------------------------------------------------------------------------------
+País: Zimbabwe
+  → Government expenditure on education, total (% of government expen | Anos ausentes: [2021]
+-----------------------------------------------------------------------------------------------
