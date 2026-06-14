@@ -24,7 +24,10 @@ Indicadores utilizados:
     ├── dados/
     │   ├── original/      # dataset bruto do Banco Mundial
     │   └── secundario/    # datasets gerados pela limpeza
-    ├── resultados/        # gráficos e tabelas
+    ├── resultados/
+    │   ├── png/           # gráficos
+    │   ├── tabelas/       # tabelas geradas
+    │   └── txt/           # arquivos de texto
     └── Trabalho_Final_EAE1106.ipynb
 ## Requisitos
 ```
