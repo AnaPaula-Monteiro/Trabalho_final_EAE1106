@@ -1,0 +1,10 @@
+,count,mean,std,min,25%,50%,75%,max
+GDP (constant 2015 US$),2065.0,410358309691.14,1823692689953.76,36811936.08,6859420393.25,27935083541.2,194505511433.34,22568462768174.3
+GDP per capita (constant 2015 US$),2065.0,17188.37,24739.22,254.4,2271.2,6440.83,21451.44,247170.22
+"Government expenditure on education, total (% of GDP)",1496.0,4.36,2.0,0.0,3.11,4.19,5.31,16.39
+"Government expenditure on education, total (% of government expen…",1563.0,14.19,4.98,0.0,10.72,13.56,17.16,35.01
+"Government expenditure per student, secondary (% of GDP per capit…",219.0,20.08,8.13,0.73,15.0,20.14,23.88,65.03
+Unemployment with advanced education (% of total labor force with…,1094.0,7.04,5.85,0.24,3.22,4.95,9.03,43.97
+Unemployment with basic education (% of total labor force with ba…,1108.0,9.82,7.78,0.03,4.14,8.2,12.86,46.53
+Unemployment with intermediate education (% of total labor force …,1110.0,8.85,6.57,0.12,4.62,7.06,10.86,57.28
+"Unemployment, total (% of total labor force) (modeled ILO estimat…",2043.0,7.49,5.8,0.1,3.53,5.54,9.85,36.47

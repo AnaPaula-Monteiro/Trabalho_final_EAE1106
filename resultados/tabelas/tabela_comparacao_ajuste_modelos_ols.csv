@@ -1,0 +1,25 @@
+Modelo,Especificação,N,k,R²,R²_adj,AIC,BIC,β_edu,p_edu
+M1 – Gasto público em educação (% do PIB) × Taxa de desemprego total,OLS-simples,125,1,0.0088,0.0008,772.72,778.38,0.3266,0.2977
+M1 – Gasto público em educação (% do PIB) × Taxa de desemprego total,OLS-múltiplo,125,2,0.0101,-0.0061,774.56,783.04,0.2872,0.3834
+M1 – Gasto público em educação (% do PIB) × Taxa de desemprego total,OLS-interação,125,3,0.0205,-0.0037,775.23,786.55,2.4807,0.2083
+M2a – Gasto público em educação (% do PIB) × Taxa de desemprego com educação básica,OLS-simples,49,1,0.0155,-0.0055,336.25,340.03,0.6534,0.3943
+M2a – Gasto público em educação (% do PIB) × Taxa de desemprego com educação básica,OLS-múltiplo,49,2,0.025,-0.0174,337.77,343.45,0.444,0.5934
+M2a – Gasto público em educação (% do PIB) × Taxa de desemprego com educação básica,OLS-interação,49,3,0.028,-0.0368,339.62,347.19,2.7162,0.6598
+M2b – Gasto público em educação (% do PIB) × Taxa de desemprego com educação intermediária,OLS-simples,49,1,0.0103,-0.0107,302.28,306.07,-0.3766,0.4869
+M2b – Gasto público em educação (% do PIB) × Taxa de desemprego com educação intermediária,OLS-múltiplo,49,2,0.0852,0.0454,300.43,306.11,0.037,0.948
+M2b – Gasto público em educação (% do PIB) × Taxa de desemprego com educação intermediária,OLS-interação,49,3,0.0898,0.0291,302.18,309.75,2.0239,0.6308
+M2c – Gasto público em educação (% do PIB) × Taxa de desemprego com educação avançada,OLS-simples,49,1,0.0554,0.0353,263.53,267.32,-0.6008,0.1036
+M2c – Gasto público em educação (% do PIB) × Taxa de desemprego com educação avançada,OLS-múltiplo,49,2,0.2084,0.174,256.87,262.55,-0.193,0.5961
+M2c – Gasto público em educação (% do PIB) × Taxa de desemprego com educação avançada,OLS-interação,49,3,0.2098,0.1571,258.79,266.35,-0.9415,0.7276
+M3 – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego total,OLS-simples,114,1,0.0066,-0.0022,710.67,716.14,-0.1027,0.3888
+M3 – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego total,OLS-múltiplo,114,2,0.0067,-0.0112,712.66,720.87,-0.1043,0.3893
+M3 – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego total,OLS-interação,114,3,0.0447,0.0186,710.22,721.16,-1.7169,0.0298
+M4a – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação básica,OLS-simples,47,1,0.0633,0.0425,320.05,323.75,-0.4676,0.088
+M4a – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação básica,OLS-múltiplo,47,2,0.0959,0.0548,320.39,325.94,-0.4164,0.1296
+M4a – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação básica,OLS-interação,47,3,0.1071,0.0448,321.8,329.2,2.0104,0.5463
+M4b – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação intermediária,OLS-simples,47,1,0.005,-0.0171,284.72,288.42,0.0878,0.636
+M4b – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação intermediária,OLS-múltiplo,47,2,0.0641,0.0216,283.84,289.39,0.0417,0.8203
+M4b – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação intermediária,OLS-interação,47,3,0.0646,-0.0006,285.82,293.22,-0.3161,0.8891
+M4c – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação avançada,OLS-simples,47,1,0.0,-0.0222,247.8,251.5,-0.0017,0.9893
+M4c – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação avançada,OLS-múltiplo,47,2,0.1926,0.1559,239.74,245.29,-0.0576,0.6166
+M4c – Gasto público em educação (% do gasto governamental total) × Taxa de desemprego com educação avançada,OLS-interação,47,3,0.2107,0.1557,240.67,248.07,-1.4412,0.3072
