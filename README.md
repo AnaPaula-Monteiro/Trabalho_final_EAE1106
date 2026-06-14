@@ -17,15 +17,15 @@ Indicadores utilizados:
 - Desemprego com educação básica (SL.UEM.BASC.ZS)
 - Desemprego com educação intermediária (SL.UEM.INTM.ZS)
 - Desemprego com educação avançada (SL.UEM.ADVN.ZS)
-  
-## Estrutura
-EAE1106/
-├── dados/
-│   ├── original/      # dataset bruto do Banco Mundial
-│   └── secundario/    # datasets gerados pela limpeza
-├── resultados/        # gráficos e tabelas
-└── Trabalho_Final_EAE1106.ipynb
 
+## Estrutura
+
+    EAE1106/
+    ├── dados/
+    │   ├── original/      # dataset bruto do Banco Mundial
+    │   └── secundario/    # datasets gerados pela limpeza
+    ├── resultados/        # gráficos e tabelas
+    └── Trabalho_Final_EAE1106.ipynb
 ## Requisitos
 ```
 pandas
