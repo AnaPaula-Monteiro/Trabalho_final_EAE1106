@@ -2,7 +2,9 @@
 
 ## Descrição
 Análise empírica da relação entre gasto público em educação e desemprego
-utilizando dados do Banco Mundial (2015–2021) para 217 países.
+utilizando dados do Banco Mundial (2015–2021) para 217 países. Para rodar o código,
+baixe o notebook Trabalho_Final_EAE1106(8).ipynb e a base de dados da pasta dados/original
+nomeada dataset_metodos.csv
 
 ## Dados
 Fonte: [World Bank Open Data](https://data.worldbank.org/)
@@ -22,7 +24,7 @@ Indicadores utilizados:
 
     EAE1106/
     ├── dados/
-    │   ├── original/      # dataset bruto do Banco Mundial
+    │   ├── original/      # dataset bruto do Banco Mundial 
     │   └── secundario/    # datasets gerados pela limpeza
     ├── resultados/
     │   ├── png/           # gráficos
